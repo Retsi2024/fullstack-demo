@@ -1,0 +1,30 @@
+
+
+ p,h2 {
+            font-size: 14px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #1e1d21;
+        }
+ 
+        a {
+            color: green
+        }
+ 
+        h1 {
+            font-size: 20px;
+            color: chocolate;
+        }
+ 
+        img {
+            width: 400px;
+            border-radius: 10px;
+        }
+ 
+        #korostus {
+            background-color: yellow;
+        }
+ 
+        .punainen {
+            color: red;
+        }
+
